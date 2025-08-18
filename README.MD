@@ -5,10 +5,11 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - Atributos aria
 - alt
 - tab-index
-- menu de acessibilidade
+- Menu acessivel 
 ## Tecnologias utilizadas
 - Bootstrap
 - ScrollRevealjs
 - HTML
 - CSS
+
 - JS
