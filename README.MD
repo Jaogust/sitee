@@ -1,4 +1,5 @@
-                          # Site acessível sobre Tropicália
+                          #Site acessível sobre Tropicália
+
 # Principais características e influências
 # Música
 A Tropicália revolucionou a música brasileira ao incorporar elementos do rock, da Bossa Nova, da música regional, do pop internacional e da vanguarda concretista. 
@@ -18,5 +19,6 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - CSS
 
 - JS
+
 
 
